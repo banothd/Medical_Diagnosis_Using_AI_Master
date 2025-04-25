@@ -1,1 +1,1 @@
-# Medical_Diagnosis_Using_AI_Master
+medical diagnosis using ai
